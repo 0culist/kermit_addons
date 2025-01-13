@@ -10,4 +10,4 @@ Documentation is on the [wiki.](https://github.com/0culist/kermit_addons/wiki)
 
 ## Installation
 
-Download and run the latest .mcaddon file from Releases, then add the behaviour pack to your world.
+[Download](https://github.com/0culist/kermit_addons/releases) and run the .mcaddon file, then add the behaviour pack to your world.

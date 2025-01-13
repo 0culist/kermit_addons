@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "kermit:powercell"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"r": {
+				"item": "minecraft:netherrack"
+			},
+			"q": {
+				"item": "minecraft:quartz"
+			},
+			"t": {
+				"item": "minecraft:ghast_tear"
+			}
+		},
+		"pattern": [
+			"rqr",
+			"qtq",
+			"rqr"
+		],
+		"result": {
+			"item": "kermit:powercell"
+		}
+	}
+}

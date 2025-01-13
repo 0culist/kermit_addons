@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"0culist"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.42"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "kermit_addons",
+		"description": "Addon for Kermitcraft",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "e5ddd1f1-174b-4fe9-a862-3d8db0c2b97b",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "447363b5-7ba0-443f-8564-4cf086fe4298",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "301e7178-47e5-4722-959e-098809e3f22f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

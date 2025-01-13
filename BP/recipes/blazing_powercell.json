@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "kermit:blazing_powercell"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"b": {
+				"item": "minecraft:blaze_powder"
+			},
+			"e": {
+				"item": "kermit:charged_powercell"
+			}
+		},
+		"pattern": [
+			" b ",
+			"beb",
+			" b "
+		],
+		"result": {
+			"item": "kermit:blazing_powercell"
+		}
+	}
+}

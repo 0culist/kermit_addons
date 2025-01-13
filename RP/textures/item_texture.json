@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "kermit_addons",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"powercell": {
+			"textures": "textures/items/powercell"
+		},
+		"charged_powercell": {
+			"textures": "textures/items/powercell"
+		},
+		"blazing_powercell": {
+			"textures": "textures/items/blazing_powercell"
+		}
+	}
+}
